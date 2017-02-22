@@ -1,0 +1,11 @@
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\ref out\bin\Debug\ref out.exe.config
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\ref out\bin\Debug\ref out.exe
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\ref out\bin\Debug\ref out.pdb
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\ref out\obj\Debug\ref out.exe
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\ref out\obj\Debug\ref out.pdb
+D:\c#\PG\Funkcje\ref out\bin\Debug\ref out.exe.config
+D:\c#\PG\Funkcje\ref out\obj\Debug\ref out.exe
+D:\c#\PG\Funkcje\ref out\obj\Debug\ref out.pdb
+D:\c#\PG\Funkcje\ref out\bin\Debug\ref out.exe
+D:\c#\PG\Funkcje\ref out\bin\Debug\ref out.pdb
+D:\c#\PG\Funkcje\ref out\obj\Debug\ref out.csprojResolveAssemblyReference.cache

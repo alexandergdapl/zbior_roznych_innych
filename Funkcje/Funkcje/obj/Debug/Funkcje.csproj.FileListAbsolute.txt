@@ -1,0 +1,12 @@
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\bin\Debug\Funkcje.exe.config
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\bin\Debug\Funkcje.exe
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\bin\Debug\Funkcje.pdb
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\obj\Debug\Funkcje.csprojResolveAssemblyReference.cache
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\obj\Debug\Funkcje.exe
+C:\Users\Misiek\Desktop\Praca\Programowanie\Asp.NetMVC\Funkcje\Funkcje\obj\Debug\Funkcje.pdb
+d:\c#\PG\Funkcje\Funkcje\bin\Debug\Funkcje.exe.config
+d:\c#\PG\Funkcje\Funkcje\obj\Debug\Funkcje.exe
+d:\c#\PG\Funkcje\Funkcje\obj\Debug\Funkcje.pdb
+d:\c#\PG\Funkcje\Funkcje\bin\Debug\Funkcje.exe
+d:\c#\PG\Funkcje\Funkcje\bin\Debug\Funkcje.pdb
+d:\c#\PG\Funkcje\Funkcje\obj\Debug\Funkcje.csprojResolveAssemblyReference.cache
